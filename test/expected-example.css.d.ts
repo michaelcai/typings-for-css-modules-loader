@@ -1,6 +1,6 @@
 export interface IExampleCss {
-  'foo': string;
-  'bar-baz': string;
+  'foo': string
+  'bar-baz': string
 }
 
-export const locals: IExampleCss;
+export const locals: IExampleCss

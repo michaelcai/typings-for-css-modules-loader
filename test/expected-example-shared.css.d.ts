@@ -1,1 +1,1 @@
-export const sharedStyle: string;
+export const sharedStyle: string
